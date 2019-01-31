@@ -1,0 +1,26 @@
+{
+  "name": "glsl-grid",
+  "version": "1.0.0",
+  "description": "Draws an antialiased grid along the X/Y/Z direction of a mesh",
+  "main": "grid.glsl",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayamflow/glsl-grid.git"
+  },
+  "keywords": [
+    "glsl",
+    "lines",
+    "grid",
+    "topographic"
+  ],
+  "author": "Florian Morel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayamflow/glsl-grid/issues"
+  },
+  "homepage": "https://github.com/ayamflow/glsl-grid#readme",
+  "dependencies": {
+    "glsl-conditionals": "^1.0.0"
+  }
+}
