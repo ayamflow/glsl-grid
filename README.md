@@ -5,6 +5,8 @@
 Draws an antialiased grid along the X/Y/Z direction of a mesh.
 For use with glslify.
 
+Reference from [this gamedev post](https://www.gamedev.net/forums/topic/529926-terrain-contour-lines-using-pixel-shader/).
+
 ![glsl-grid](https://i.imgur.com/YxN1dP0.jpg)
 
 ### Installation :package:
