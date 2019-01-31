@@ -1,6 +1,6 @@
 {
   "name": "glsl-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Draws an antialiased grid along the X/Y/Z direction of a mesh",
   "main": "grid.glsl",
   "scripts": {},

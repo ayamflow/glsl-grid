@@ -1,4 +1,4 @@
-#pragma glslify: when_ge = require(glsl-conditionals/when_ge)
+#pragma glslify: when_le = require(glsl-conditionals/when_le)
 #pragma glslify: when_gt = require(glsl-conditionals/when_gt)
 
 float grid(vec3 pos, vec3 axis, float size) {
